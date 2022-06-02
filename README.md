@@ -1,2 +1,2 @@
-# python_projects
-SistersLab Women in Tech Academy Python eğitimindeki içerikleri içeren github reposu
+# Python Projects 
+SistersLab Women in Tech Academy Python eğitimindeki projeleri içeren github repository'si
